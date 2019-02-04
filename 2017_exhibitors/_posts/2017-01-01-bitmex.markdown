@@ -1,0 +1,12 @@
+---
+title: BitMEX
+name: bitmex
+subtitle: Bitcoin Mercantile Exchange
+layout: 2017_default
+modal-id: 1
+img: bitmex.png
+thumbnail: bitmex_thumb.png
+alt: BitMEX Logo
+topic: Bitcoin Mercantile Exchange
+description: https://www.bitmex.com/
+---

@@ -1,0 +1,12 @@
+---
+title: ANX
+name: anx
+subtitle: Technology Development, Advisory Services, Blockchain Education, Digital Marketing and Recruitment Services
+layout: 2017_default
+modal-id: 1
+img: ANX.png
+thumbnail: ANX_thumb.png
+alt: ANX Intl Logo
+topic: Technology Development, Advisory Services, Blockchain Education, Digital Marketing and Recruitment Services
+description: https://anxintl.com/
+---

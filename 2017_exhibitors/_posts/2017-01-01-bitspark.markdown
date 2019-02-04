@@ -1,0 +1,12 @@
+---
+title: Spark
+name: spark
+subtitle: Remittance Platform for Money Transfer Operators
+layout: 2017_default
+modal-id: 1
+img: spark.png
+thumbnail: spark_thumb.png
+alt: Spark logo
+topic: Remittance Platform for Money Transfer Operators
+description: Spark is a Hong Kong based cryptocurrency remittance company founded in 2014. We are building a bankless remittance ecosystem for Money Transfer Operators so they can send money cheaper and better for their remittance companies. The Spark network provides better rates, faster payments and access to 180+ cryptocurrencies through a hybrid platform using Bitcoin and Bitshares. Spark also operates in Hong Kong, Philippines, Indonesia, Vietnam, Pakistan, Nigeria and Ghana. And most recently raised significant funding privately and via an Initial Coin Offering ($ZEPH). https://bitspark.io/
+---
