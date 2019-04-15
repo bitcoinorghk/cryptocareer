@@ -1,9 +1,0 @@
----
-title: Accelerating Tech
-name: accelerate
-layout: 2017_default
-modal-id: 1
-thumbnail: accelerate_thumb.png
-alt: Logo of Accelerating Tech
-link: https://www.accelerating.tech/
----

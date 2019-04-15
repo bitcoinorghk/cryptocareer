@@ -1,0 +1,12 @@
+---
+title: Diginex
+name: diginex
+subtitle: Global Blockchain Solutions & Financial Services
+layout: 2018_default
+modal-id: 1
+img: diginexb.png
+thumbnail: diginexb_thumb.png
+alt: Diginex Logo
+topic: Global Blockchain Solutions & Financial Services
+description: https://www.diginex.com/
+---

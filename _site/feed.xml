@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blockchain Career Day</title>
+    <description>The Blockchain Career Day takes place on June 2 at Garage Society in Wan Chai, organized by the Bitcoin Association of Hong Kong.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 15 Apr 2019 18:00:44 +0800</pubDate>
+    <lastBuildDate>Mon, 15 Apr 2019 18:00:44 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Olga Kochmar</title>
+        <description>
+</description>
+        <pubDate>Wed, 31 May 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_teams/2017/05/31/olga/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_teams/2017/05/31/olga/</guid>
+        
+        
+        <category>2019_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Leonhard Weese</title>
+        <description>
+</description>
+        <pubDate>Wed, 31 May 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019_teams/2017/05/31/leo/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019_teams/2017/05/31/leo/</guid>
+        
+        
+        <category>2019_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Olga Kochmar</title>
+        <description>
+</description>
+        <pubDate>Wed, 31 May 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2018_teams/2017/05/31/olga/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018_teams/2017/05/31/olga/</guid>
+        
+        
+        <category>2018_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Leonhard Weese</title>
+        <description>
+</description>
+        <pubDate>Wed, 31 May 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2018_teams/2017/05/31/leo/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018_teams/2017/05/31/leo/</guid>
+        
+        
+        <category>2018_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Kenetic Capital</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2018_exhibitors/2017/01/01/kenetic/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018_exhibitors/2017/01/01/kenetic/</guid>
+        
+        
+        <category>2018_exhibitors</category>
+        
+      </item>
+    
+      <item>
+        <title>Gatecoin</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2018_exhibitors/2017/01/01/gatecoin/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018_exhibitors/2017/01/01/gatecoin/</guid>
+        
+        
+        <category>2018_exhibitors</category>
+        
+      </item>
+    
+      <item>
+        <title>Diginex</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2018_exhibitors/2017/01/01/diginex/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018_exhibitors/2017/01/01/diginex/</guid>
+        
+        
+        <category>2018_exhibitors</category>
+        
+      </item>
+    
+      <item>
+        <title>Datum</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2018_exhibitors/2017/01/01/datum/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018_exhibitors/2017/01/01/datum/</guid>
+        
+        
+        <category>2018_exhibitors</category>
+        
+      </item>
+    
+      <item>
+        <title>Spark</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2018_exhibitors/2017/01/01/bitspark/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018_exhibitors/2017/01/01/bitspark/</guid>
+        
+        
+        <category>2018_exhibitors</category>
+        
+      </item>
+    
+      <item>
+        <title>BitMEX</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2018_exhibitors/2017/01/01/bitmex/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018_exhibitors/2017/01/01/bitmex/</guid>
+        
+        
+        <category>2018_exhibitors</category>
+        
+      </item>
+    
+  </channel>
+</rss>

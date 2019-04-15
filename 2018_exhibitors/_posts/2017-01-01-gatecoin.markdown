@@ -1,0 +1,12 @@
+---
+title: Gatecoin
+name: gatecoin
+subtitle: Bitcoin & Ethereum Token Exchange
+layout: 2018_default
+modal-id: 1
+img: gatecoin.png
+thumbnail: gatecoin_thumb.png
+alt: Gatecoin Logo
+topic: Bitcoin & Ethereum Token Exchange
+description: https://gatecoin.com/
+---
