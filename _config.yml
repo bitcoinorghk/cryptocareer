@@ -1,12 +1,12 @@
 title: Blockchain Career Day
 description: > # this means to ignore newlines until "baseurl:"
-  The Blockchain Career Day takes place on June 2 at Garage Society in Wan Chai, organized by the Bitcoin Association of Hong Kong.
+  The Blockchain Career Day takes place on June 15 at Garage Society in Wan Chai, organized by the Bitcoin Association of Hong Kong.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "cryptocareer.hk" # the base hostname & protocol for your site
-image: "../css/2019_style/img/og.png"
+url: "http://www.cryptocareer.hk" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 lang: en_HK
+image: og.png
 
 # Social
 logo: "../css/2019_style/img/icon-large.png"
@@ -15,13 +15,11 @@ twitter:
   username: bitcoinorghk
   card: summary
 
-google_site_verification: googleXXXXXXXXXXXXXXXX.html
-
 include: ['_2018_pages', '_2019_pages']
 
 plugins:
-  - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

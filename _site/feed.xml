@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blockchain Career Day</title>
-    <description>The Blockchain Career Day takes place on June 2 at Garage Society in Wan Chai, organized by the Bitcoin Association of Hong Kong.
+    <description>The Blockchain Career Day takes place on June 15 at Garage Society in Wan Chai, organized by the Bitcoin Association of Hong Kong.
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Apr 2019 22:32:06 +0800</pubDate>
-    <lastBuildDate>Tue, 16 Apr 2019 22:32:06 +0800</lastBuildDate>
+    <pubDate>Tue, 16 Apr 2019 23:01:24 +0800</pubDate>
+    <lastBuildDate>Tue, 16 Apr 2019 23:01:24 +0800</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
     
       <item>
