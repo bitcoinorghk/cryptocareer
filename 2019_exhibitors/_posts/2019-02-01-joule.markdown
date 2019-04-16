@@ -1,0 +1,12 @@
+---
+title: Joule
+name: joule
+subtitle: Trade on the Popularity level of Public Figures.
+layout: 2019_default
+modal-id: 1
+img: joule.png
+thumbnail: joule.png
+alt: Joule logo
+topic: Trade on the Popularity level of Public Figures.
+description: https://www.jouleindex.com/
+---
