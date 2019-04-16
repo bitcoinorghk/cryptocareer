@@ -3,17 +3,17 @@ description: > # this means to ignore newlines until "baseurl:"
   The Blockchain Career Day takes place on June 2 at Garage Society in Wan Chai, organized by the Bitcoin Association of Hong Kong.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "cryptocareer.hk" # the base hostname & protocol for your site
+image: "../css/2019_style/img/og.png"
 # Build settings
 markdown: kramdown
+lang: en_HK
 
-facebook:
-  app_id: 
-
+# Social
 logo: "../css/2017_style/img/icon-large.png"
 
-social: 
-  name: The Bitcoin Association of Hong Kong
-  link: "https://www.twitter.com/bitcoinorghk"
+twitter:
+  username: bitcoinorghk
+  card: summary
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
@@ -29,8 +29,6 @@ social:
     url: https://www.facebook.com/bitcoinorghk
   - title: twitter
     url: https://twitter.com/bitcoinorghk
-  - title: google-plus
-    url: https://plus.google.com/112484687493420931164
   - title: instagram
     url: https://www.instagram.com/bitcoinorghk/
   - title: linkedin
