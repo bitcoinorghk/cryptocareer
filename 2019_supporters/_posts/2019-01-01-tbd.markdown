@@ -1,0 +1,9 @@
+---
+title: TBD
+name: TBD
+layout: 2019_default
+modal-id: 1
+thumbnail: TBD.jpg
+alt: Logo of Cryptojobslist
+link: https://www.cryptocareer.hk
+---
