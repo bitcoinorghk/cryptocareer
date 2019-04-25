@@ -1,0 +1,12 @@
+---
+title: Paxful
+name: paxful
+subtitle: Peer to peer Bitcoin marketplace.
+layout: 2019_default
+modal-id: 1
+img: paxful.png
+thumbnail: paxful.png
+alt: Paxful logo
+topic: Peer to peer Bitcoin marketplace.
+description: https://paxful.com/
+---
