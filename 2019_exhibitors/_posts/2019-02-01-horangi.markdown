@@ -1,0 +1,12 @@
+---
+title: Horangi
+name: horangi
+subtitle: Leading Cyber Security Company In Asia.
+layout: 2019_default
+modal-id: 1
+img: horangi.png
+thumbnail: horangi.png
+alt: Horangi logo
+topic: Leading Cyber Security Company In Asia.
+description: https://horangi.com/
+---
