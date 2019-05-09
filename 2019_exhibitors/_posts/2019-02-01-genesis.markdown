@@ -1,0 +1,12 @@
+---
+title: Genesis Block
+name: genesisblock
+subtitle: OTC Desk, Mining Equipment, Event Space.
+layout: 2019_default
+modal-id: 1
+img: genesisblock.png
+thumbnail: genesisblock.png
+alt: Genesis Block logo
+topic: OTC Desk, Mining Equipment, Event Space.
+description: https://genesisblockhk.com/
+---
