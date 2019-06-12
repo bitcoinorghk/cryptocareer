@@ -1,0 +1,12 @@
+---
+title: BC Group
+name: bcgroup
+subtitle: BC Group is one of the leading providers of trading technologies, advisory and marketing & communication solutions.
+layout: 2019_default
+modal-id: 1
+img: bcgroup.png
+thumbnail: bcgroup.png
+alt: BC Group logo
+topic: BC Group is one of the leading providers of trading technologies, advisory and marketing & communication solutions.
+description: https://bc.group/
+---
